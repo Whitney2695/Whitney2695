@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Whitney2695
+- 👋 Hi, I’m Whitney Navalia
 - 👀 I’m interested in software development,web designing, data analytics, networking and cybersecurity.
 - 🌱 I’m currently learning at chuka university.
 - 💞️ I’m looking to collaborate on projects.
