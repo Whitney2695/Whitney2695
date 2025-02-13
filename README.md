@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Whitney Navalia
-- 👀 I’m interested in software development,web designing, data analytics, networking and cybersecurity.
-- 🌱 I’m currently learning at chuka university.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 you can reach me https://www.linkedin.com/in/whitney-navalia-818058276
+# 👋 Hey, I'm Whitney Navalia!  
 
-<!---
-Whitney2695/Whitney2695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full-Stack Developer | Tech Explorer | UI/UX Enthusiast**  
+🚀 Turning ideas into powerful, user-friendly web applications!  
+
+## 🚀 About Me  
+🎨 Passionate about **building sleek UIs, scalable systems, and seamless user experiences**  
+📊 Enthusiastic about **data analytics, networking, and cybersecurity**  
+🧠 Constantly learning, experimenting, and pushing the boundaries of tech!  
+
+## 🛠️ Tech Stack  
+🌐 **Frontend:** Angular, TypeScript, HTML, CSS, SCSS  
+⚙️ **Backend:** Node.js, Express.js  
+🧪 **Testing:** Cypress, Jasmine  
+🗄️ **Databases:** PostgreSQL, MongoDB  
+☁️ **Cloud & Deployment:** Vercel, Cloudinary  
+🔐 **Security & Networking:** Cybersecurity Enthusiast  
+
+## 🌟 What I Love Doing  
+✅ **Designing & developing** dynamic web apps  
+✅ **Building intuitive & responsive UIs**  
+✅ **Exploring cybersecurity & networking**  
+✅ **Collaborating on impactful projects**  
+
+💡 Always open to exciting opportunities, collaborations, and discussions on all things tech!  
+
+📩 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/whitney-navalia-818058276)**  
+✨ Keep building, keep innovating, and keep breaking barriers! 🚀  
