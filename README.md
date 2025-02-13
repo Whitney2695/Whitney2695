@@ -12,7 +12,7 @@
 🌐 **Frontend:** Angular, TypeScript, HTML, CSS, SCSS  
 ⚙️ **Backend:** Node.js, Express.js  
 🧪 **Testing:** Cypress, Jasmine  
-🗄️ **Databases:** PostgreSQL, MongoDB  
+🗄️ **Databases:** PostgreSQL,Mssql, MongoDB  
 ☁️ **Cloud & Deployment:** Vercel, Cloudinary  
 🔐 **Security & Networking:** Cybersecurity Enthusiast  
 
