@@ -9,7 +9,7 @@
 🧠 Constantly learning, experimenting, and pushing the boundaries of tech!  
 
 ## 🛠️ Tech Stack  
-🌐 **Frontend:** Angular, TypeScript, HTML, CSS, SCSS  
+🌐 **Frontend:** Angular, TypeScript, HTML, CSS
 ⚙️ **Backend:** Node.js, Express.js  
 🧪 **Testing:** Cypress, Jasmine  
 🗄️ **Databases:** PostgreSQL,Mssql, MongoDB  
