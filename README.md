@@ -1,28 +1,36 @@
-# 👋 Hey, I'm Whitney Navalia!  
+Here’s your cleaned-up version without any emojis:
 
-💻 **Full-Stack Developer | Tech Explorer | UI/UX Enthusiast**  
-🚀 Turning ideas into powerful, user-friendly web applications!  
+---
 
-## 🚀 About Me  
-🎨 Passionate about **building sleek UIs, scalable systems, and seamless user experiences**  
-📊 Enthusiastic about **data analytics, networking, and cybersecurity**  
-🧠 Constantly learning, experimenting, and pushing the boundaries of tech!  
+# Hey, I'm Whitney Navalia!  
 
-## 🛠️ Tech Stack  
-🌐 **Frontend:** Angular, TypeScript, HTML, CSS
-⚙️ **Backend:** Node.js, Express.js  
-🧪 **Testing:** Cypress, Jasmine  
-🗄️ **Databases:** PostgreSQL,Mssql, MongoDB  
-☁️ **Cloud & Deployment:** Vercel, Cloudinary  
-🔐 **Security & Networking:** Cybersecurity Enthusiast  
+**Full-Stack Developer | Tech Explorer | UI/UX Enthusiast**  
+Turning ideas into powerful, user-friendly web applications!
 
-## 🌟 What I Love Doing  
-✅ **Designing & developing** dynamic web apps  
-✅ **Building intuitive & responsive UIs**  
-✅ **Exploring cybersecurity & networking**  
-✅ **Collaborating on impactful projects**  
+## About Me  
+Passionate about **building sleek UIs, scalable systems, and seamless user experiences**  
+Enthusiastic about **data analytics, networking, and cybersecurity**  
+Constantly learning, experimenting, and pushing the boundaries of tech!
 
-💡 Always open to exciting opportunities, collaborations, and discussions on all things tech!  
+## Tech Stack  
+**Frontend:** Angular, TypeScript, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Testing:** Cypress, Jasmine  
+**Databases:** PostgreSQL, Mssql, MongoDB  
+**Cloud & Deployment:** Vercel, Cloudinary  
+**Security & Networking:** Cybersecurity Enthusiast
+
+## What I Love Doing  
+**Designing & developing** dynamic web apps  
+**Building intuitive & responsive UIs**  
+**Exploring cybersecurity & networking**  
+**Collaborating on impactful projects**
+
+Always open to exciting opportunities, collaborations, and discussions on all things tech!
 
 📩 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/whitney-navalia-818058276)**  
-✨ Keep building, keep innovating, and keep breaking barriers! 🚀  
+Keep building, keep innovating, and keep breaking barriers!
+
+---
+
+Let me know if you want it formatted as a PDF, resume, or portfolio section!
