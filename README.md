@@ -1,6 +1,4 @@
-Here’s your cleaned-up version without any emojis:
 
----
 
 # Hey, I'm Whitney Navalia!  
 
@@ -31,6 +29,3 @@ Always open to exciting opportunities, collaborations, and discussions on all th
 📩 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/whitney-navalia-818058276)**  
 Keep building, keep innovating, and keep breaking barriers!
 
----
-
-Let me know if you want it formatted as a PDF, resume, or portfolio section!
