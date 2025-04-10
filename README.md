@@ -14,7 +14,7 @@ Constantly learning, experimenting, and pushing the boundaries of tech!
 **Frontend:** Angular, TypeScript, HTML, CSS  
 **Backend:** Node.js, Express.js  
 **Testing:** Cypress, Jasmine  
-**Databases:** PostgreSQL, Mssql, MongoDB  
+**Databases:** PostgreSQL, Mssql, MongoDB, Redis 
 **Cloud & Deployment:** Vercel, Cloudinary, Render 
 **Security & Networking:** Cybersecurity Enthusiast
 
