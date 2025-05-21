@@ -1,4 +1,4 @@
-https://my-portfolio-hf1cypwe0-whitneys-projects-c801c99b.vercel.app
+https://my-portfolio-delta-eight-19.vercel.app
 
 # Hey, I'm Whitney Navalia!  
 
